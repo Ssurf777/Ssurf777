@@ -72,6 +72,10 @@ Accelerating physics-based simulations with reliable and interpretable AI
 ## 📊 **GitHub Analytics**
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssurf777&show_icons=true&theme=transparent&hide_border=true" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssurf777&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
