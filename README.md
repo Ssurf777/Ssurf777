@@ -72,7 +72,7 @@ Accelerating physics-based simulations with reliable and interpretable AI
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssurf777&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ssurf777&theme=transparent&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
