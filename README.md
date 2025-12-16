@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ssurf+%F0%9F%91%8B;Numerical+Fluid+Engineer+%26+Data+Scientist;Point+Cloud+%7C+VAE+%7C+PINN+Research;Bridging+Physics+and+Machine+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ssurf+%F0%9F%91%8B;CFD-Driven+Numerical+Engineer+%26+Data+Scientist;Researching+VAE%2C+PINN+%26+Point+Cloud+Learning;Bridging+Computational+Physics+and+Machine+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
 
 ---
 
